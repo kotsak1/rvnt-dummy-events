@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "title": "Athens Marathon",
+    "location": "Panathenaic Stadium",
+    "city": "Athens",
+    "date": "2023-10-08",
+    "time": "09:00",
+    "category": "Sports",
+    "price": "50.00"
+  },
+  {
+    "id": 2,
+    "title": "National Orchestra of Greece",
+    "location": "Thessaloniki Concert Hall",
+    "city": "Thessaloniki",
+    "date": "2023-06-15",
+    "time": "19:30",
+    "category": "Music",
+    "price": "30.00"
+  },
+  {
+    "id": 3,
+    "title": "Ancient Greek Theatre Festival",
+    "location": "Ancient Theatre of Epidaurus",
+    "city": "Epidaurus",
+    "date": "2023-07-20",
+    "time": "20:30",
+    "category": "Theatre",
+    "price": "20.00"
+  },
+  {
+    "id": 4,
+    "title": "Greek Island Hopping Tour",
+    "location": "Santorini Port",
+    "city": "Santorini",
+    "date": "2023-09-01",
+    "time": "09:00",
+    "category": "Travel",
+    "price": "500.00"
+  },
+  {
+    "id": 5,
+    "title": "Acropolis Museum Tour",
+    "location": "Acropolis Museum",
+    "city": "Athens",
+    "date": "2023-08-05",
+    "time": "11:00",
+    "category": "Art",
+    "price": "15.00"
+  },
+  {
+    "id": 6,
+    "title": "Spartathlon Ultramarathon",
+    "location": "Sparta City Hall",
+    "city": "Sparta",
+    "date": "2023-09-29",
+    "time": "07:00",
+    "category": "Sports",
+    "price": "80.00"
+  },
+  {
+    "id": 7,
+    "title": "Olympiakos vs. Panathinaikos",
+    "location": "Georgios Karaiskakis Football Stadium",
+    "city": "Piraeus",
+    "date": "2023-05-01",
+    "time": "19:00",
+    "category": "Sports",
+    "price": "80.00"
+  },
+  {
+    "id": 8,
+    "title": "Thessaloniki International Film Festival",
+    "location": "Various locations",
+    "city": "Thessaloniki",
+    "date": "2023-11-03",
+    "time": "19:00",
+    "category": "Film",
+    "price": "40.00"
+  },
+  {
+    "id": 9,
+    "title": "Greek National Opera: Carmen",
+    "location": "Stavros Niarchos Foundation Cultural Center",
+    "city": "Athens",
+    "date": "2023-05-21",
+    "time": "20:00",
+    "category": "Opera",
+    "price": "60.00"
+  },
+  {
+    "id": 10,
+    "title": "Delphi Forum",
+    "location": "European Cultural Centre of Delphi",
+    "city": "Delphi",
+    "date": "2023-05-05",
+    "time": "09:00",
+    "category": "Conference",
+    "price": "Free"
+  },
+  {
+    "id": 11,
+    "title": "Epidaurus Festival: Oedipus Rex",
+    "location": "Ancient Theater of Epidaurus",
+    "city": "Epidaurus",
+    "date": "2023-07-01",
+    "time": "21:00",
+    "category": "Theater",
+    "price": "50.00"
+  },
+  {
+    "id": 12,
+    "title": "Corfu Beer Festival",
+    "location": "New Fortress",
+    "city": "Corfu",
+    "date": "2023-09-15",
+    "time": "18:00",
+    "category": "Festival",
+    "price": "Free"
+  },
+  {
+    "id": 13,
+    "title": "Rhodes Rock Festival",
+    "location": "Outdoor Theater",
+    "city": "Rhodes",
+    "date": "2023-08-18",
+    "time": "20:00",
+    "category": "Music",
+    "price": "€20"
+  },
+  {
+    "id": 14,
+    "title": "Patmos Revelation",
+    "location": "Cave of the Apocalypse",
+    "city": "Patmos",
+    "date": "2023-07-03",
+    "time": "10:00",
+    "category": "Religious",
+    "price": "Free"
+  },
+  {
+    "id": 15,
+    "title": "Nafplio Jazz Festival",
+    "location": "Trianon",
+    "city": "Nafplio",
+    "date": "2023-09-22",
+    "time": "21:00",
+    "category": "Music",
+    "price": "€15"
+  },
+  {
+    "id": 16,
+    "title": "Santorini Arts Festival",
+    "location": "Megaro Gyzi Cultural Center",
+    "city": "Santorini",
+    "date": "2023-08-05",
+    "time": "19:00",
+    "category": "Art",
+    "price": "30"
+  },
+  {
+    "id": 17,
+    "title": "Crete Food Festival",
+    "location": "Chania",
+    "city": "Crete",
+    "date": "2023-10-08",
+    "time": "12:00",
+    "category": "Food",
+    "price": "€20"
+  },
+  {
+    "id": 18,
+    "title": "Rhodes Medieval Festival",
+    "location": "Rhodes Old Town",
+    "city": "Rhodes",
+    "date": "2023-06-25",
+    "time": "10:00",
+    "category": "Festival",
+    "price": "Free"
+  },
+  {
+    "id": 19,
+    "title": "Heraklion Archaeological Museum Tour",
+    "location": "Heraklion Archaeological Museum",
+    "city": "Heraklion",
+    "date": "2023-05-10",
+    "time": "14:00",
+    "category": "Art",
+    "price": "€15"
+  },
+  {
+    "id": 20,
+    "title": "Thessaloniki International Book Fair",
+    "location": "Helexpo",
+    "city": "Thessaloniki",
+    "date": "2023-05-11",
+    "time": "10:00",
+    "category": "Literature",
+    "price": "Free"
+  },
+  {
+    "id": 21,
+    "title": "Kalamata Dance Festival",
+    "location": "Kalamata Castle Amphitheatre",
+    "city": "Kalamata",
+    "date": "2023-07-19",
+    "time": "21:00",
+    "category": "Dance",
+    "price": "€25"
+  },
+  {
+    "id": 22,
+    "title": "Chios Rock Festival",
+    "location": "Chios Castle",
+    "city": "Chios",
+    "date": "2023-07-29",
+    "time": "20:00",
+    "category": "Music",
+    "price": "€15"
+  },
+  {
+    "id": 23,
+    "title": "Meteora Monasteries Tour",
+    "location": "Meteora",
+    "city": "Kalabaka",
+    "date": "2023-06-10",
+    "time": "09:00",
+    "category": "Religious",
+    "price": "€20"
+  },
+  {
+    "id": 24,
+    "title": "Sounion Sunset Tour",
+    "location": "Temple of Poseidon",
+    "city": "Sounion",
+    "date": "2023-08-18",
+    "time": "18:00",
+    "category": "Sightseeing",
+    "price": "€25"
+  },
+  {
+    "id": 25,
+    "title": "Santorini Wine Tour",
+    "location": "Various vineyards",
+    "city": "Santorini",
+    "date": "2023-09-05",
+    "time": "11:00",
+    "category": "Food and Drink",
+    "price": "€50"
+  },
+  {
+    "id": 26,
+    "title": "Parga Music Festival",
+    "location": "Venetian Castle",
+    "city": "Parga",
+    "date": "2023-08-08",
+    "time": "21:00",
+    "category": "Music",
+    "price": "€20"
+  },
+  {
+    "id": 27,
+    "title": "Hydra Film Festival",
+    "location": "Open-air cinema",
+    "city": "Hydra",
+    "date": "2023-06-20",
+    "time": "21:00",
+    "category": "Film",
+    "price": "Free"
+  },
+  {
+    "id": 28,
+    "title": "Malia Beach Party",
+    "location": "Malia Beach",
+    "city": "Malia",
+    "date": "2023-07-03",
+    "time": "22:00",
+    "category": "Party",
+    "price": "€15"
+  },
+  {
+    "id": 29,
+    "title": "Samaria Gorge Hike",
+    "location": "Samaria Gorge",
+    "city": "Chania",
+    "date": "2023-09-18",
+    "time": "07:00",
+    "category": "Sports",
+    "price": "€25"
+  },
+  {
+    "id": 30,
+    "title": "Crete International Photography Festival",
+    "location": "Heraklion Archaeological Museum",
+    "city": "Heraklion",
+    "date": "2023-06-25",
+    "time": "10:00",
+    "category": "Photography",
+    "price": "Free"
+  }, 
+  {
+    "id": 31,
+    "title": "Kythira Carnival",
+    "location": "Kythira Town",
+    "city": "Kythira",
+    "date": "2023-02-28",
+    "time": "18:00",
+    "category": "Carnival",
+    "price": "Free"
+  },
+  {
+    "id": 32,
+    "title": "Crete Half Marathon",
+    "location": "Chania Stadium",
+    "city": "Chania",
+    "date": "2023-10-01",
+    "time": "09:00",
+    "category": "Sports",
+    "price": "€35"
+  },
+  {
+    "id": 33,
+    "title": "Thessaloniki Street Food Festival",
+    "location": "Athonos Square",
+    "city": "Thessaloniki",
+    "date": "2023-06-10",
+    "time": "18:00",
+    "category": "Food",
+    "price": "Free"
+  },
+  {
+    "id": 34,
+    "title": "Mykonos Biennale",
+    "location": "Old Port",
+    "city": "Mykonos",
+    "date": "2023-07-29",
+    "time": "20:00",
+    "category": "Art",
+    "price": "€15-€25"
+  },
+  {
+    "id": 35,
+    "title": "Santorini Wine Tasting",
+    "location": "SantoWines",
+    "city": "Santorini",
+    "date": "2023-08-25",
+    "time": "17:00",
+    "category": "Food",
+    "price": "€25"
+  },
+  {
+    "id": 36,
+    "title": "Olympic Air Show",
+    "location": "Tanagra Air Base",
+    "city": "Tanagra",
+    "date": "2023-09-16",
+    "time": "10:00",
+    "category": "Air Show",
+    "price": "€10"
+  },
+  {
+    "id": 37,
+    "title": "Thessaloniki International Fair",
+    "location": "Thessaloniki International Exhibition Center",
+    "city": "Thessaloniki",
+    "date": "2023-09-09",
+    "time": "10:00",
+    "category": "Exhibition",
+    "price": "Varies"
+  },
+  {
+    "id": 38,
+    "title": "Aegina Fistiki Festival",
+    "location": "Pistachio Grove",
+    "city": "Aegina",
+    "date": "2023-09-23",
+    "time": "11:00",
+    "category": "Food",
+    "price": "Free"
+  },
+  {
+    "id": 39,
+    "title": "Halkidiki Music Festival",
+    "location": "Siviri Amphitheater",
+    "city": "Halkidiki",
+    "date": "2023-07-17",
+    "time": "20:00",
+    "category": "Music",
+    "price": "€30"
+  },
+  {
+    "id": 40,
+    "title": "Ioannina Winter Festival",
+    "location": "Castle of Ioannina",
+    "city": "Ioannina",
+    "date": "2023-12-01",
+    "time": "18:00",
+    "category": "Festival",
+    "price": "Free"
+  }
+]
+
